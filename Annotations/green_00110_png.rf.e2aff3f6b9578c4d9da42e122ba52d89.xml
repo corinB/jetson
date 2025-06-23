@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>green_00110_png.rf.e2aff3f6b9578c4d9da42e122ba52d89.jpg</filename>
+	<path>green_00110_png.rf.e2aff3f6b9578c4d9da42e122ba52d89.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>343</xmax>
+			<ymin>130</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

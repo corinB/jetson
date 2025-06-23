@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>right_00135_png.rf.4e7e4ba892cb3a7585136a101e40ec33.jpg</filename>
+	<path>right_00135_png.rf.4e7e4ba892cb3a7585136a101e40ec33.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>458</xmax>
+			<ymin>192</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

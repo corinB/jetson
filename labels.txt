@@ -1,0 +1,7 @@
+background
+red
+green
+left
+right
+stop
+animal

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>stop_00107_png.rf.d0d00cd0c4de7ff9f8cec0ddf2ce1aee.jpg</filename>
+	<path>stop_00107_png.rf.d0d00cd0c4de7ff9f8cec0ddf2ce1aee.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>84</xmin>
+			<xmax>511</xmax>
+			<ymin>36</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

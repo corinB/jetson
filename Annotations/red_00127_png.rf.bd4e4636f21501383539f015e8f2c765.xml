@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>red_00127_png.rf.bd4e4636f21501383539f015e8f2c765.jpg</filename>
+	<path>red_00127_png.rf.bd4e4636f21501383539f015e8f2c765.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>256</xmin>
+			<xmax>405</xmax>
+			<ymin>141</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
